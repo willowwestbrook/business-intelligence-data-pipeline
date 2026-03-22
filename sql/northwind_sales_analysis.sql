@@ -1,4 +1,12 @@
-#chat gpt saved my life during this exam 
+-- ============================================================
+-- Northwind Sales Analysis
+-- Analyzes product-level sales trends using the Northwind database
+-- Techniques: CTEs, window functions (LAG, RANK), aggregations
+-- ============================================================
+
+-- ------------------------------------------------------------
+-- Monthly quantity sold per product with month-over-month change
+-- ------------------------------------------------------------
 WITH monthly_sales AS (
     SELECT
         p.ProductID,
@@ -32,7 +40,7 @@ SELECT
     sale_month,
     total_quantity,
     prev_month_quantity,
-    CASE 
+    CASE
         WHEN prev_month_quantity = 0 THEN NULL
         ELSE ROUND(
             ((total_quantity - prev_month_quantity) * 100.0) / prev_month_quantity, 2
@@ -43,7 +51,10 @@ FROM
 ORDER BY
     ProductID, sale_year, sale_month;
 
-#fine tuning the output columns for the desired question 4 output
+
+-- ------------------------------------------------------------
+-- Monthly revenue per product with month-over-month percentage change
+-- ------------------------------------------------------------
 WITH monthly_revenue AS (
     SELECT
         p.ProductName,
@@ -72,7 +83,7 @@ SELECT
     order_month,
     ROUND(total_revenue, 2) AS total_revenue,
     ROUND(prev_month_revenue, 2) AS prev_month_revenue,
-    CASE 
+    CASE
         WHEN prev_month_revenue = 0 THEN NULL
         ELSE ROUND(
             ((total_revenue - prev_month_revenue) * 100.0) / prev_month_revenue, 2
@@ -84,7 +95,9 @@ ORDER BY
     ProductName, order_year, order_month;
 
 
-#question 4 part b
+-- ------------------------------------------------------------
+-- Top 3 products by annual revenue (ranked per year)
+-- ------------------------------------------------------------
 WITH product_revenue_by_year AS (
     SELECT
         p.ProductName,
@@ -120,124 +133,3 @@ WHERE
 ORDER BY
     order_year,
     sales_rank;
-
-#question 5 dillards database
-#see ERD diagram in saved png named 'final exam ERD'
-#i
-SELECT
-    YEAR(SALEDATE) AS order_year,
-    MONTH(SALEDATE) AS order_month,
-    ROUND(SUM(AMT), 2) AS total_revenue
-FROM
-    transactions
-GROUP BY
-    YEAR(SALEDATE),
-    MONTH(SALEDATE)
-ORDER BY
-    order_year,
-    order_month;
-
-#ii
-SELECT
-    s.CITY,
-    ROUND(SUM(t.AMT), 2) AS total_revenue
-FROM
-    transactions t
-JOIN
-    store s ON t.STORE = s.STORE
-GROUP BY
-    s.CITY
-ORDER BY
-    total_revenue DESC;
-
-
-#iii
-SELECT
-    t.STORE,
-    s.CITY,
-    s.STATE,
-    ROUND(SUM(t.AMT), 2) AS total_revenue
-FROM
-    transactions t
-JOIN
-    store s ON t.STORE = s.STORE
-GROUP BY
-    t.STORE, s.CITY, s.STATE
-ORDER BY
-    total_revenue DESC
-LIMIT 10;
-
-#iv
-SELECT
-    sk.BRAND,
-    ROUND(SUM(t.AMT), 2) AS total_revenue,
-    SUM(t.QUANTITY) AS total_units_sold
-FROM
-    transactions t
-JOIN
-    sku sk ON t.SKU = sk.SKU
-GROUP BY
-    sk.BRAND
-ORDER BY
-    total_revenue DESC, total_units_sold DESC;
-
-#v
-#total profit by brand
-SELECT
-    sk.BRAND,
-    ROUND(SUM((t.ORGPRICE - t.SPRICE) * t.QUANTITY), 2) AS total_profit
-FROM
-    transactions t
-JOIN
-    sku sk ON t.SKU = sk.SKU
-GROUP BY
-    sk.BRAND
-ORDER BY
-    total_profit DESC;
-
-
-#total profit by store
-SELECT
-    s.STORE,
-    s.CITY,
-    s.STATE,
-    ROUND(SUM((t.ORGPRICE - t.SPRICE) * t.QUANTITY), 2) AS total_profit
-FROM
-    transactions t
-JOIN
-    store s ON t.STORE = s.STORE
-GROUP BY
-    s.STORE, s.CITY, s.STATE
-ORDER BY
-    total_profit DESC;
-
-#total profit by department
-SELECT
-    d.DEPT,
-    d.DEPTDESC,
-    ROUND(SUM((t.ORGPRICE - t.SPRICE) * t.QUANTITY), 2) AS total_profit
-FROM
-    transactions t
-JOIN
-    sku sk ON t.SKU = sk.SKU
-JOIN
-    department d ON sk.DEPT = d.DEPT
-GROUP BY
-    d.DEPT, d.DEPTDESC
-ORDER BY
-    total_profit DESC;
-
-#question 5 part b
-SELECT
-    t.STORE,
-    sk.DEPT,
-    sk.BRAND,
-    ROUND(SUM((t.ORGPRICE - t.SPRICE) * t.QUANTITY), 2) AS total_profit
-FROM
-    transactions t
-JOIN
-    sku sk ON t.SKU = sk.SKU
-GROUP BY
-    t.STORE, sk.DEPT, sk.BRAND
-ORDER BY
-    total_profit DESC;
