@@ -1,0 +1,1163 @@
+ProductName,order_year,order_month,total_revenue,prev_month_revenue,pct_change
+"Alice Mutton",2014,7,936.00,0.00,NULL
+"Alice Mutton",2014,8,936.00,936.00,0.00
+"Alice Mutton",2014,9,1248.00,936.00,33.33
+"Alice Mutton",2014,10,3057.60,1248.00,145.00
+"Alice Mutton",2014,11,1123.20,3057.60,-63.27
+"Alice Mutton",2015,1,3026.40,0.00,NULL
+"Alice Mutton",2015,2,312.00,3026.40,-89.69
+"Alice Mutton",2015,5,2847.00,312.00,812.50
+"Alice Mutton",2015,6,1326.00,2847.00,-53.42
+"Alice Mutton",2015,7,3900.00,1326.00,194.12
+"Alice Mutton",2015,9,1170.00,3900.00,-70.00
+"Alice Mutton",2015,10,2145.00,1170.00,83.33
+"Alice Mutton",2015,11,780.00,2145.00,-63.64
+"Alice Mutton",2015,12,4212.00,780.00,440.00
+"Alice Mutton",2016,1,1872.00,0.00,NULL
+"Alice Mutton",2016,2,2067.00,1872.00,10.42
+"Alice Mutton",2016,3,1053.00,2067.00,-49.06
+"Alice Mutton",2016,4,468.00,1053.00,-55.56
+"Alice Mutton",2016,5,3003.00,468.00,541.67
+"Aniseed Syrup",2014,8,240.00,0.00,NULL
+"Aniseed Syrup",2015,1,400.00,0.00,NULL
+"Aniseed Syrup",2015,3,160.00,400.00,-60.00
+"Aniseed Syrup",2015,5,600.00,160.00,275.00
+"Aniseed Syrup",2015,7,140.00,600.00,-76.67
+"Aniseed Syrup",2015,10,60.00,140.00,-57.14
+"Aniseed Syrup",2015,11,200.00,60.00,233.33
+"Aniseed Syrup",2015,12,200.00,200.00,0.00
+"Aniseed Syrup",2016,1,790.00,0.00,NULL
+"Aniseed Syrup",2016,4,250.00,790.00,-68.35
+"Aniseed Syrup",2016,5,40.00,250.00,-84.00
+"Boston Crab Meat",2014,7,735.00,0.00,NULL
+"Boston Crab Meat",2014,8,1470.00,735.00,100.00
+"Boston Crab Meat",2014,9,735.00,1470.00,-50.00
+"Boston Crab Meat",2014,11,58.80,735.00,-92.00
+"Boston Crab Meat",2015,1,764.40,0.00,NULL
+"Boston Crab Meat",2015,2,294.00,764.40,-61.54
+"Boston Crab Meat",2015,3,896.70,294.00,205.00
+"Boston Crab Meat",2015,4,552.00,896.70,-38.44
+"Boston Crab Meat",2015,5,644.00,552.00,16.67
+"Boston Crab Meat",2015,6,956.80,644.00,48.57
+"Boston Crab Meat",2015,7,772.80,956.80,-19.23
+"Boston Crab Meat",2015,8,1104.00,772.80,42.86
+"Boston Crab Meat",2015,9,2649.60,1104.00,140.00
+"Boston Crab Meat",2015,11,1821.60,2649.60,-31.25
+"Boston Crab Meat",2015,12,18.40,1821.60,-98.99
+"Boston Crab Meat",2016,1,2116.00,0.00,NULL
+"Boston Crab Meat",2016,2,1895.20,2116.00,-10.43
+"Boston Crab Meat",2016,3,552.00,1895.20,-70.87
+"Boston Crab Meat",2016,4,1012.00,552.00,83.33
+"Camembert Pierrot",2014,7,1088.00,0.00,NULL
+"Camembert Pierrot",2014,8,2067.20,1088.00,90.00
+"Camembert Pierrot",2014,11,3889.60,2067.20,88.16
+"Camembert Pierrot",2014,12,3019.20,3889.60,-22.38
+"Camembert Pierrot",2015,1,1632.00,0.00,NULL
+"Camembert Pierrot",2015,3,1632.00,1632.00,0.00
+"Camembert Pierrot",2015,4,3604.00,1632.00,120.83
+"Camembert Pierrot",2015,5,1190.00,3604.00,-66.98
+"Camembert Pierrot",2015,6,816.00,1190.00,-31.43
+"Camembert Pierrot",2015,7,4250.00,816.00,420.83
+"Camembert Pierrot",2015,8,1020.00,4250.00,-76.00
+"Camembert Pierrot",2015,9,4590.00,1020.00,350.00
+"Camembert Pierrot",2015,10,340.00,4590.00,-92.59
+"Camembert Pierrot",2015,11,2210.00,340.00,550.00
+"Camembert Pierrot",2015,12,510.00,2210.00,-76.92
+"Camembert Pierrot",2016,1,5304.00,0.00,NULL
+"Camembert Pierrot",2016,2,3400.00,5304.00,-35.90
+"Camembert Pierrot",2016,3,3740.00,3400.00,10.00
+"Camembert Pierrot",2016,4,5916.00,3740.00,58.18
+"Camembert Pierrot",2016,5,68.00,5916.00,-98.85
+"Carnarvon Tigers",2014,8,600.00,0.00,NULL
+"Carnarvon Tigers",2014,9,1250.00,600.00,108.33
+"Carnarvon Tigers",2014,10,3000.00,1250.00,140.00
+"Carnarvon Tigers",2014,12,450.00,3000.00,-85.00
+"Carnarvon Tigers",2015,3,1500.00,0.00,NULL
+"Carnarvon Tigers",2015,4,1562.50,1500.00,4.17
+"Carnarvon Tigers",2015,6,1125.00,1562.50,-28.00
+"Carnarvon Tigers",2015,7,2500.00,1125.00,122.22
+"Carnarvon Tigers",2015,8,5125.00,2500.00,105.00
+"Carnarvon Tigers",2015,10,750.00,5125.00,-85.37
+"Carnarvon Tigers",2015,11,2812.50,750.00,275.00
+"Carnarvon Tigers",2015,12,1875.00,2812.50,-33.33
+"Carnarvon Tigers",2016,1,3437.50,0.00,NULL
+"Carnarvon Tigers",2016,2,1562.50,3437.50,-54.55
+"Carnarvon Tigers",2016,3,1125.00,1562.50,-28.00
+"Carnarvon Tigers",2016,4,3312.50,1125.00,194.44
+Chai,2014,8,907.20,0.00,NULL
+Chai,2014,9,288.00,907.20,-68.25
+Chai,2014,11,388.80,288.00,35.00
+Chai,2014,12,216.00,388.80,-44.44
+Chai,2015,1,489.60,0.00,NULL
+Chai,2015,3,216.00,489.60,-55.88
+Chai,2015,4,720.00,216.00,233.33
+Chai,2015,5,144.00,720.00,-80.00
+Chai,2015,6,180.00,144.00,25.00
+Chai,2015,7,522.00,180.00,190.00
+Chai,2015,8,720.00,522.00,37.93
+Chai,2015,10,1260.00,720.00,75.00
+Chai,2015,11,1044.00,1260.00,-17.14
+Chai,2016,1,1512.00,0.00,NULL
+Chai,2016,2,1620.00,1512.00,7.14
+Chai,2016,3,1458.00,1620.00,-10.00
+Chai,2016,4,1872.00,1458.00,28.40
+Chai,2016,5,720.00,1872.00,-61.54
+Chang,2014,7,1596.00,0.00,NULL
+Chang,2014,9,608.00,1596.00,-61.90
+Chang,2014,10,851.20,608.00,40.00
+Chang,2014,12,380.00,851.20,-55.36
+Chang,2015,1,912.00,0.00,NULL
+Chang,2015,2,836.00,912.00,-8.33
+Chang,2015,3,912.00,836.00,9.09
+Chang,2015,4,228.00,912.00,-75.00
+Chang,2015,7,190.00,228.00,-16.67
+Chang,2015,8,1900.00,190.00,900.00
+Chang,2015,10,722.00,1900.00,-62.00
+Chang,2015,11,285.00,722.00,-60.53
+Chang,2015,12,1615.00,285.00,466.67
+Chang,2016,1,1178.00,0.00,NULL
+Chang,2016,2,1159.00,1178.00,-1.61
+Chang,2016,3,190.00,1159.00,-83.61
+Chang,2016,4,3819.00,190.00,1910.00
+Chang,2016,5,1178.00,3819.00,-69.15
+"Chartreuse verte",2014,7,691.20,0.00,NULL
+"Chartreuse verte",2014,9,1296.00,691.20,87.50
+"Chartreuse verte",2014,10,57.60,1296.00,-95.56
+"Chartreuse verte",2014,11,1497.60,57.60,2500.00
+"Chartreuse verte",2014,12,288.00,1497.60,-80.77
+"Chartreuse verte",2015,2,374.40,0.00,NULL
+"Chartreuse verte",2015,3,288.00,374.40,-23.08
+"Chartreuse verte",2015,4,180.00,288.00,-37.50
+"Chartreuse verte",2015,6,180.00,180.00,0.00
+"Chartreuse verte",2015,7,90.00,180.00,-50.00
+"Chartreuse verte",2015,8,738.00,90.00,720.00
+"Chartreuse verte",2015,9,414.00,738.00,-43.90
+"Chartreuse verte",2015,12,2664.00,414.00,543.48
+"Chartreuse verte",2016,1,1062.00,0.00,NULL
+"Chartreuse verte",2016,2,2394.00,1062.00,125.42
+"Chartreuse verte",2016,3,540.00,2394.00,-77.44
+"Chartreuse verte",2016,5,396.00,540.00,-26.67
+"Chef Anton's Cajun Seasoning",2014,9,352.00,0.00,NULL
+"Chef Anton's Cajun Seasoning",2014,10,915.20,352.00,160.00
+"Chef Anton's Cajun Seasoning",2014,11,616.00,915.20,-32.69
+"Chef Anton's Cajun Seasoning",2015,3,281.60,0.00,NULL
+"Chef Anton's Cajun Seasoning",2015,4,1100.00,281.60,290.63
+"Chef Anton's Cajun Seasoning",2015,5,2200.00,1100.00,100.00
+"Chef Anton's Cajun Seasoning",2015,7,440.00,2200.00,-80.00
+"Chef Anton's Cajun Seasoning",2015,8,770.00,440.00,75.00
+"Chef Anton's Cajun Seasoning",2015,9,264.00,770.00,-65.71
+"Chef Anton's Cajun Seasoning",2015,10,132.00,264.00,-50.00
+"Chef Anton's Cajun Seasoning",2015,11,550.00,132.00,316.67
+"Chef Anton's Cajun Seasoning",2016,1,462.00,0.00,NULL
+"Chef Anton's Cajun Seasoning",2016,2,660.00,462.00,42.86
+"Chef Anton's Cajun Seasoning",2016,3,110.00,660.00,-83.33
+"Chef Anton's Cajun Seasoning",2016,4,550.00,110.00,400.00
+"Chef Anton's Cajun Seasoning",2016,5,22.00,550.00,-96.00
+"Chef Anton's Gumbo Mix",2014,7,1309.00,0.00,NULL
+"Chef Anton's Gumbo Mix",2014,8,340.00,1309.00,-74.03
+"Chef Anton's Gumbo Mix",2014,12,544.00,340.00,60.00
+"Chef Anton's Gumbo Mix",2015,8,320.25,0.00,NULL
+"Chef Anton's Gumbo Mix",2015,10,85.40,320.25,-73.33
+"Chef Anton's Gumbo Mix",2016,1,640.50,0.00,NULL
+"Chef Anton's Gumbo Mix",2016,3,427.00,640.50,-33.33
+"Chef Anton's Gumbo Mix",2016,4,2135.00,427.00,400.00
+Chocolade,2015,1,714.00,0.00,NULL
+Chocolade,2015,2,153.00,714.00,-78.57
+Chocolade,2015,4,191.25,153.00,25.00
+Chocolade,2015,7,76.50,191.25,-60.00
+Chocolade,2015,10,306.00,76.50,300.00
+Chocolade,2016,1,102.00,0.00,NULL
+"Côte de Blaye",2014,10,4216.00,0.00,NULL
+"Côte de Blaye",2014,11,16864.00,4216.00,300.00
+"Côte de Blaye",2014,12,8432.00,16864.00,-50.00
+"Côte de Blaye",2015,1,20869.20,0.00,NULL
+"Côte de Blaye",2015,3,6324.00,20869.20,-69.70
+"Côte de Blaye",2015,4,3952.50,6324.00,-37.50
+"Côte de Blaye",2015,5,8959.00,3952.50,126.67
+"Côte de Blaye",2015,7,3952.50,8959.00,-55.88
+"Côte de Blaye",2015,9,3952.50,3952.50,0.00
+"Côte de Blaye",2015,12,3952.50,3952.50,0.00
+"Côte de Blaye",2016,1,18445.00,0.00,NULL
+"Côte de Blaye",2016,2,26350.00,18445.00,42.86
+"Côte de Blaye",2016,3,17127.50,26350.00,-35.00
+"Côte de Blaye",2016,4,6587.50,17127.50,-61.54
+"Escargots de Bourgogne",2014,9,318.00,0.00,NULL
+"Escargots de Bourgogne",2014,10,318.00,318.00,0.00
+"Escargots de Bourgogne",2014,12,1007.00,318.00,216.67
+"Escargots de Bourgogne",2015,5,265.00,0.00,NULL
+"Escargots de Bourgogne",2015,7,397.50,265.00,50.00
+"Escargots de Bourgogne",2015,8,79.50,397.50,-80.00
+"Escargots de Bourgogne",2015,9,1046.75,79.50,1216.67
+"Escargots de Bourgogne",2015,10,556.50,1046.75,-46.84
+"Escargots de Bourgogne",2016,1,1192.50,0.00,NULL
+"Escargots de Bourgogne",2016,2,556.50,1192.50,-53.33
+"Escargots de Bourgogne",2016,3,397.50,556.50,-28.57
+"Escargots de Bourgogne",2016,4,530.00,397.50,33.33
+"Filo Mix",2014,10,156.80,0.00,NULL
+"Filo Mix",2014,12,112.00,156.80,-28.57
+"Filo Mix",2015,2,196.00,0.00,NULL
+"Filo Mix",2015,4,42.00,196.00,-78.57
+"Filo Mix",2015,6,700.00,42.00,1566.67
+"Filo Mix",2015,7,196.00,700.00,-72.00
+"Filo Mix",2015,8,35.00,196.00,-82.14
+"Filo Mix",2015,9,63.00,35.00,80.00
+"Filo Mix",2015,10,28.00,63.00,-55.56
+"Filo Mix",2015,11,721.00,28.00,2475.00
+"Filo Mix",2015,12,161.00,721.00,-77.67
+"Filo Mix",2016,1,196.00,0.00,NULL
+"Filo Mix",2016,2,98.00,196.00,-50.00
+"Filo Mix",2016,3,441.00,98.00,350.00
+"Filo Mix",2016,4,224.00,441.00,-49.21
+"Filo Mix",2016,5,14.00,224.00,-93.75
+Flotemysost,2014,8,344.00,0.00,NULL
+Flotemysost,2014,9,86.00,344.00,-75.00
+Flotemysost,2014,10,1204.00,86.00,1300.00
+Flotemysost,2014,11,86.00,1204.00,-92.86
+Flotemysost,2014,12,2769.20,86.00,3120.00
+Flotemysost,2015,1,1290.00,0.00,NULL
+Flotemysost,2015,2,1410.40,1290.00,9.33
+Flotemysost,2015,3,206.40,1410.40,-85.37
+Flotemysost,2015,5,193.50,206.40,-6.25
+Flotemysost,2015,7,838.50,193.50,333.33
+Flotemysost,2015,8,1397.50,838.50,66.67
+Flotemysost,2015,9,559.00,1397.50,-60.00
+Flotemysost,2015,10,2537.00,559.00,353.85
+Flotemysost,2015,12,602.00,2537.00,-76.27
+Flotemysost,2016,1,1182.50,0.00,NULL
+Flotemysost,2016,2,1182.50,1182.50,0.00
+Flotemysost,2016,3,752.50,1182.50,-36.36
+Flotemysost,2016,4,4235.50,752.50,462.86
+Geitost,2014,7,170.00,0.00,NULL
+Geitost,2014,8,88.00,170.00,-48.24
+Geitost,2014,10,16.00,88.00,-81.82
+Geitost,2014,12,120.00,16.00,650.00
+Geitost,2015,1,238.00,0.00,NULL
+Geitost,2015,2,40.00,238.00,-83.19
+Geitost,2015,3,24.00,40.00,-40.00
+Geitost,2015,4,40.00,24.00,66.67
+Geitost,2015,5,132.50,40.00,231.25
+Geitost,2015,6,85.00,132.50,-35.85
+Geitost,2015,7,35.00,85.00,-58.82
+Geitost,2015,8,50.00,35.00,42.86
+Geitost,2015,9,170.00,50.00,240.00
+Geitost,2016,1,137.50,0.00,NULL
+Geitost,2016,2,175.00,137.50,27.27
+Geitost,2016,3,55.00,175.00,-68.57
+Geitost,2016,4,137.50,55.00,150.00
+"Genen Shouyu",2014,8,248.00,0.00,NULL
+"Genen Shouyu",2014,10,62.00,248.00,-75.00
+"Genen Shouyu",2015,4,186.00,0.00,NULL
+"Genen Shouyu",2015,6,155.00,186.00,-16.67
+"Genen Shouyu",2015,7,387.50,155.00,150.00
+"Genen Shouyu",2015,9,775.00,387.50,100.00
+"Gnocchi di nonna Alice",2014,7,60.80,0.00,NULL
+"Gnocchi di nonna Alice",2014,9,729.60,60.80,1100.00
+"Gnocchi di nonna Alice",2014,10,364.80,729.60,-50.00
+"Gnocchi di nonna Alice",2014,11,608.00,364.80,66.67
+"Gnocchi di nonna Alice",2014,12,1155.20,608.00,90.00
+"Gnocchi di nonna Alice",2015,1,3192.00,0.00,NULL
+"Gnocchi di nonna Alice",2015,2,2523.20,3192.00,-20.95
+"Gnocchi di nonna Alice",2015,3,1520.00,2523.20,-39.76
+"Gnocchi di nonna Alice",2015,4,5517.60,1520.00,263.00
+"Gnocchi di nonna Alice",2015,5,1140.00,5517.60,-79.34
+"Gnocchi di nonna Alice",2015,6,3800.00,1140.00,233.33
+"Gnocchi di nonna Alice",2015,7,1786.00,3800.00,-53.00
+"Gnocchi di nonna Alice",2015,8,3040.00,1786.00,70.21
+"Gnocchi di nonna Alice",2015,9,2166.00,3040.00,-28.75
+"Gnocchi di nonna Alice",2015,10,2584.00,2166.00,19.30
+"Gnocchi di nonna Alice",2015,11,3686.00,2584.00,42.65
+"Gnocchi di nonna Alice",2015,12,3800.00,3686.00,3.09
+"Gnocchi di nonna Alice",2016,1,3952.00,0.00,NULL
+"Gnocchi di nonna Alice",2016,2,1406.00,3952.00,-64.42
+"Gnocchi di nonna Alice",2016,3,1140.00,1406.00,-18.92
+"Gnocchi di nonna Alice",2016,4,950.00,1140.00,-16.67
+"Gorgonzola Telino",2014,7,200.00,0.00,NULL
+"Gorgonzola Telino",2014,8,550.00,200.00,175.00
+"Gorgonzola Telino",2014,10,850.00,550.00,54.55
+"Gorgonzola Telino",2014,11,1200.00,850.00,41.18
+"Gorgonzola Telino",2014,12,1640.00,1200.00,36.67
+"Gorgonzola Telino",2015,1,140.00,0.00,NULL
+"Gorgonzola Telino",2015,2,30.00,140.00,-78.57
+"Gorgonzola Telino",2015,3,350.00,30.00,1066.67
+"Gorgonzola Telino",2015,4,200.00,350.00,-42.86
+"Gorgonzola Telino",2015,5,1687.50,200.00,743.75
+"Gorgonzola Telino",2015,6,2137.50,1687.50,26.67
+"Gorgonzola Telino",2015,9,600.00,2137.50,-71.93
+"Gorgonzola Telino",2015,10,875.00,600.00,45.83
+"Gorgonzola Telino",2015,11,137.50,875.00,-84.29
+"Gorgonzola Telino",2015,12,1862.50,137.50,1254.55
+"Gorgonzola Telino",2016,1,925.00,0.00,NULL
+"Gorgonzola Telino",2016,2,437.50,925.00,-52.70
+"Gorgonzola Telino",2016,3,1912.50,437.50,337.14
+"Gorgonzola Telino",2016,4,187.50,1912.50,-90.20
+"Gorgonzola Telino",2016,5,250.00,187.50,33.33
+"Grandma's Boysenberry Spread",2014,9,600.00,0.00,NULL
+"Grandma's Boysenberry Spread",2014,10,120.00,600.00,-80.00
+"Grandma's Boysenberry Spread",2015,8,1750.00,0.00,NULL
+"Grandma's Boysenberry Spread",2015,11,750.00,1750.00,-57.14
+"Grandma's Boysenberry Spread",2016,1,150.00,0.00,NULL
+"Grandma's Boysenberry Spread",2016,2,1250.00,150.00,733.33
+"Grandma's Boysenberry Spread",2016,3,2200.00,1250.00,76.00
+"Grandma's Boysenberry Spread",2016,5,525.00,2200.00,-76.14
+"Gravad lax",2014,7,20.80,0.00,NULL
+"Gravad lax",2014,10,582.40,20.80,2700.00
+"Gravad lax",2015,1,208.00,0.00,NULL
+"Gravad lax",2015,5,468.00,208.00,125.00
+"Gravad lax",2016,1,1560.00,0.00,NULL
+"Gravad lax",2016,3,208.00,1560.00,-86.67
+"Guaraná Fantástica",2014,7,288.00,0.00,NULL
+"Guaraná Fantástica",2014,8,144.00,288.00,-50.00
+"Guaraná Fantástica",2014,11,162.00,144.00,12.50
+"Guaraná Fantástica",2014,12,108.00,162.00,-33.33
+"Guaraná Fantástica",2015,2,72.00,0.00,NULL
+"Guaraná Fantástica",2015,3,478.80,72.00,565.00
+"Guaraná Fantástica",2015,4,166.50,478.80,-65.23
+"Guaraná Fantástica",2015,5,157.50,166.50,-5.41
+"Guaraná Fantástica",2015,6,193.50,157.50,22.86
+"Guaraná Fantástica",2015,7,157.50,193.50,-18.60
+"Guaraná Fantástica",2015,8,103.50,157.50,-34.29
+"Guaraná Fantástica",2015,10,247.50,103.50,139.13
+"Guaraná Fantástica",2015,12,180.00,247.50,-27.27
+"Guaraná Fantástica",2016,1,180.00,0.00,NULL
+"Guaraná Fantástica",2016,2,657.00,180.00,265.00
+"Guaraná Fantástica",2016,3,900.00,657.00,36.99
+"Guaraná Fantástica",2016,4,630.00,900.00,-30.00
+"Guaraná Fantástica",2016,5,90.00,630.00,-85.71
+Gudbrandsdalsost,2014,9,662.40,0.00,NULL
+Gudbrandsdalsost,2014,11,1958.40,662.40,195.65
+Gudbrandsdalsost,2014,12,1670.40,1958.40,-14.71
+Gudbrandsdalsost,2015,1,1008.00,0.00,NULL
+Gudbrandsdalsost,2015,4,288.00,1008.00,-71.43
+Gudbrandsdalsost,2015,5,1008.00,288.00,250.00
+Gudbrandsdalsost,2015,6,360.00,1008.00,-64.29
+Gudbrandsdalsost,2015,7,3060.00,360.00,750.00
+Gudbrandsdalsost,2015,8,720.00,3060.00,-76.47
+Gudbrandsdalsost,2015,9,1620.00,720.00,125.00
+Gudbrandsdalsost,2015,10,1980.00,1620.00,22.22
+Gudbrandsdalsost,2015,11,4248.00,1980.00,114.55
+Gudbrandsdalsost,2015,12,864.00,4248.00,-79.66
+Gudbrandsdalsost,2016,2,1800.00,0.00,NULL
+Gudbrandsdalsost,2016,3,684.00,1800.00,-62.00
+Gudbrandsdalsost,2016,4,2376.00,684.00,247.37
+"Gula Malacca",2014,8,945.50,0.00,NULL
+"Gula Malacca",2014,11,1193.50,945.50,26.23
+"Gula Malacca",2015,1,620.00,0.00,NULL
+"Gula Malacca",2015,2,1550.00,620.00,150.00
+"Gula Malacca",2015,3,263.50,1550.00,-83.00
+"Gula Malacca",2015,4,175.05,263.50,-33.57
+"Gula Malacca",2015,5,778.00,175.05,344.44
+"Gula Malacca",2015,6,602.95,778.00,-22.50
+"Gula Malacca",2015,8,194.50,602.95,-67.74
+"Gula Malacca",2015,9,953.05,194.50,390.00
+"Gula Malacca",2015,10,1439.30,953.05,51.02
+"Gula Malacca",2015,11,311.20,1439.30,-78.38
+"Gula Malacca",2015,12,194.50,311.20,-37.50
+"Gula Malacca",2016,1,311.20,0.00,NULL
+"Gula Malacca",2016,3,466.80,311.20,50.00
+"Gula Malacca",2016,4,525.15,466.80,12.50
+"Gumbär Gummibärchen",2014,10,1842.60,0.00,NULL
+"Gumbär Gummibärchen",2014,11,398.40,1842.60,-78.38
+"Gumbär Gummibärchen",2014,12,1743.00,398.40,337.50
+"Gumbär Gummibärchen",2015,1,1792.80,0.00,NULL
+"Gumbär Gummibärchen",2015,2,1269.90,1792.80,-29.17
+"Gumbär Gummibärchen",2015,3,747.00,1269.90,-41.18
+"Gumbär Gummibärchen",2015,5,1249.20,747.00,67.23
+"Gumbär Gummibärchen",2015,7,343.53,1249.20,-72.50
+"Gumbär Gummibärchen",2015,8,1093.05,343.53,218.18
+"Gumbär Gummibärchen",2015,9,1405.35,1093.05,28.57
+"Gumbär Gummibärchen",2015,10,1405.35,1405.35,0.00
+"Gumbär Gummibärchen",2015,11,999.36,1405.35,-28.89
+"Gumbär Gummibärchen",2015,12,655.83,999.36,-34.38
+"Gumbär Gummibärchen",2016,1,3279.15,0.00,NULL
+"Gumbär Gummibärchen",2016,2,624.60,3279.15,-80.95
+"Gumbär Gummibärchen",2016,3,156.15,624.60,-75.00
+"Gumbär Gummibärchen",2016,4,2783.25,156.15,1682.42
+"Gustaf's Knäckebröd",2014,7,100.80,0.00,NULL
+"Gustaf's Knäckebröd",2015,2,201.60,0.00,NULL
+"Gustaf's Knäckebröd",2015,5,504.00,201.60,150.00
+"Gustaf's Knäckebröd",2015,7,1008.00,504.00,100.00
+"Gustaf's Knäckebröd",2015,8,1995.00,1008.00,97.92
+"Gustaf's Knäckebröd",2015,9,420.00,1995.00,-78.95
+"Gustaf's Knäckebröd",2015,12,210.00,420.00,-50.00
+"Gustaf's Knäckebröd",2016,1,1827.00,0.00,NULL
+"Gustaf's Knäckebröd",2016,3,441.00,1827.00,-75.86
+"Gustaf's Knäckebröd",2016,4,525.00,441.00,19.05
+Ikura,2014,8,967.20,0.00,NULL
+Ikura,2014,11,744.00,967.20,-23.08
+Ikura,2014,12,396.80,744.00,-46.67
+Ikura,2015,2,843.20,0.00,NULL
+Ikura,2015,3,496.00,843.20,-41.18
+Ikura,2015,4,496.00,496.00,0.00
+Ikura,2015,5,62.00,496.00,-87.50
+Ikura,2015,6,155.00,62.00,150.00
+Ikura,2015,7,2480.00,155.00,1500.00
+Ikura,2015,8,558.00,2480.00,-77.50
+Ikura,2015,9,1426.00,558.00,155.56
+Ikura,2015,10,2263.00,1426.00,58.70
+Ikura,2015,12,1612.00,2263.00,-28.77
+Ikura,2016,1,4061.00,0.00,NULL
+Ikura,2016,2,2480.00,4061.00,-38.93
+Ikura,2016,3,2325.00,2480.00,-6.25
+Ikura,2016,4,744.00,2325.00,-68.00
+Ikura,2016,5,31.00,744.00,-95.83
+"Inlagd Sill",2014,7,380.00,0.00,NULL
+"Inlagd Sill",2014,8,456.00,380.00,20.00
+"Inlagd Sill",2014,9,790.40,456.00,73.33
+"Inlagd Sill",2014,10,912.00,790.40,15.38
+"Inlagd Sill",2014,11,304.00,912.00,-66.67
+"Inlagd Sill",2014,12,91.20,304.00,-70.00
+"Inlagd Sill",2015,1,76.00,0.00,NULL
+"Inlagd Sill",2015,5,2280.00,76.00,2900.00
+"Inlagd Sill",2015,6,475.00,2280.00,-79.17
+"Inlagd Sill",2015,7,1444.00,475.00,204.00
+"Inlagd Sill",2015,8,285.00,1444.00,-80.26
+"Inlagd Sill",2015,9,684.00,285.00,140.00
+"Inlagd Sill",2015,10,855.00,684.00,25.00
+"Inlagd Sill",2015,11,494.00,855.00,-42.22
+"Inlagd Sill",2015,12,570.00,494.00,15.38
+"Inlagd Sill",2016,1,950.00,0.00,NULL
+"Inlagd Sill",2016,2,380.00,950.00,-60.00
+"Inlagd Sill",2016,3,1805.00,380.00,375.00
+"Inlagd Sill",2016,4,1311.00,1805.00,-27.37
+"Ipoh Coffee",2014,8,1472.00,0.00,NULL
+"Ipoh Coffee",2014,9,2060.80,1472.00,40.00
+"Ipoh Coffee",2014,10,1472.00,2060.80,-28.57
+"Ipoh Coffee",2015,2,736.00,0.00,NULL
+"Ipoh Coffee",2015,3,662.40,736.00,-10.00
+"Ipoh Coffee",2015,4,690.00,662.40,4.17
+"Ipoh Coffee",2015,5,3910.00,690.00,466.67
+"Ipoh Coffee",2015,8,920.00,3910.00,-76.47
+"Ipoh Coffee",2015,9,276.00,920.00,-70.00
+"Ipoh Coffee",2015,10,2944.00,276.00,966.67
+"Ipoh Coffee",2015,12,1380.00,2944.00,-53.13
+"Ipoh Coffee",2016,1,1886.00,0.00,NULL
+"Ipoh Coffee",2016,3,2254.00,1886.00,19.51
+"Ipoh Coffee",2016,4,2760.00,2254.00,22.45
+"Ipoh Coffee",2016,5,1656.00,2760.00,-40.00
+"Jack's New England Clam Chowder",2014,7,392.70,0.00,NULL
+"Jack's New England Clam Chowder",2014,9,77.00,392.70,-80.39
+"Jack's New England Clam Chowder",2014,10,246.40,77.00,220.00
+"Jack's New England Clam Chowder",2014,11,100.10,246.40,-59.38
+"Jack's New England Clam Chowder",2014,12,61.60,100.10,-38.46
+"Jack's New England Clam Chowder",2015,1,192.50,0.00,NULL
+"Jack's New England Clam Chowder",2015,2,231.00,192.50,20.00
+"Jack's New England Clam Chowder",2015,4,1022.50,231.00,342.64
+"Jack's New England Clam Chowder",2015,5,193.00,1022.50,-81.12
+"Jack's New England Clam Chowder",2015,6,202.65,193.00,5.00
+"Jack's New England Clam Chowder",2015,9,1621.20,202.65,700.00
+"Jack's New England Clam Chowder",2015,10,521.10,1621.20,-67.86
+"Jack's New England Clam Chowder",2015,11,453.55,521.10,-12.96
+"Jack's New England Clam Chowder",2015,12,714.10,453.55,57.45
+"Jack's New England Clam Chowder",2016,1,501.80,0.00,NULL
+"Jack's New England Clam Chowder",2016,2,472.85,501.80,-5.77
+"Jack's New England Clam Chowder",2016,3,386.00,472.85,-18.37
+"Jack's New England Clam Chowder",2016,4,1090.45,386.00,182.50
+"Jack's New England Clam Chowder",2016,5,617.60,1090.45,-43.36
+Konbu,2014,8,144.00,0.00,NULL
+Konbu,2014,10,57.60,144.00,-60.00
+Konbu,2014,12,230.40,57.60,300.00
+Konbu,2015,1,9.60,0.00,NULL
+Konbu,2015,3,4.80,9.60,-50.00
+Konbu,2015,4,60.00,4.80,1150.00
+Konbu,2015,5,108.00,60.00,80.00
+Konbu,2015,7,408.00,108.00,277.78
+Konbu,2015,8,78.00,408.00,-80.88
+Konbu,2015,11,60.00,78.00,-23.08
+Konbu,2015,12,120.00,60.00,100.00
+Konbu,2016,1,546.00,0.00,NULL
+Konbu,2016,2,438.00,546.00,-19.78
+Konbu,2016,3,1728.00,438.00,294.52
+Konbu,2016,4,1158.00,1728.00,-32.99
+Konbu,2016,5,84.00,1158.00,-92.75
+Lakkalikööri,2014,7,216.00,0.00,NULL
+Lakkalikööri,2014,8,475.20,216.00,120.00
+Lakkalikööri,2014,10,734.40,475.20,54.55
+Lakkalikööri,2014,11,172.80,734.40,-76.47
+Lakkalikööri,2014,12,504.00,172.80,191.67
+Lakkalikööri,2015,1,489.60,0.00,NULL
+Lakkalikööri,2015,2,259.20,489.60,-47.06
+Lakkalikööri,2015,3,604.80,259.20,133.33
+Lakkalikööri,2015,5,900.00,604.80,48.81
+Lakkalikööri,2015,6,1152.00,900.00,28.00
+Lakkalikööri,2015,7,1692.00,1152.00,46.88
+Lakkalikööri,2015,8,630.00,1692.00,-62.77
+Lakkalikööri,2015,9,180.00,630.00,-71.43
+Lakkalikööri,2015,10,900.00,180.00,400.00
+Lakkalikööri,2015,11,900.00,900.00,0.00
+Lakkalikööri,2016,1,1638.00,0.00,NULL
+Lakkalikööri,2016,2,180.00,1638.00,-89.01
+Lakkalikööri,2016,3,2502.00,180.00,1290.00
+Lakkalikööri,2016,4,2628.00,2502.00,5.04
+Lakkalikööri,2016,5,36.00,2628.00,-98.63
+"Laughing Lumberjack Lager",2014,8,56.00,0.00,NULL
+"Laughing Lumberjack Lager",2015,4,420.00,0.00,NULL
+"Laughing Lumberjack Lager",2015,5,98.00,420.00,-76.67
+"Laughing Lumberjack Lager",2015,9,350.00,98.00,257.14
+"Laughing Lumberjack Lager",2015,12,42.00,350.00,-88.00
+"Laughing Lumberjack Lager",2016,2,420.00,0.00,NULL
+"Laughing Lumberjack Lager",2016,3,896.00,420.00,113.33
+"Laughing Lumberjack Lager",2016,4,280.00,896.00,-68.75
+"Longlife Tofu",2014,7,688.00,0.00,NULL
+"Longlife Tofu",2014,12,672.00,688.00,-2.33
+"Longlife Tofu",2015,1,120.00,0.00,NULL
+"Longlife Tofu",2015,2,240.00,120.00,100.00
+"Longlife Tofu",2015,3,128.00,240.00,-46.67
+"Longlife Tofu",2015,11,50.00,128.00,-60.94
+"Longlife Tofu",2015,12,500.00,50.00,900.00
+"Longlife Tofu",2016,1,200.00,0.00,NULL
+"Longlife Tofu",2016,4,200.00,200.00,0.00
+"Louisiana Fiery Hot Pepper Sauce",2014,7,588.00,0.00,NULL
+"Louisiana Fiery Hot Pepper Sauce",2014,9,504.00,588.00,-14.29
+"Louisiana Fiery Hot Pepper Sauce",2014,10,672.00,504.00,33.33
+"Louisiana Fiery Hot Pepper Sauce",2014,11,504.00,672.00,-25.00
+"Louisiana Fiery Hot Pepper Sauce",2014,12,336.00,504.00,-33.33
+"Louisiana Fiery Hot Pepper Sauce",2015,1,336.00,0.00,NULL
+"Louisiana Fiery Hot Pepper Sauce",2015,2,1058.40,336.00,215.00
+"Louisiana Fiery Hot Pepper Sauce",2015,4,1493.95,1058.40,41.15
+"Louisiana Fiery Hot Pepper Sauce",2015,5,757.80,1493.95,-49.28
+"Louisiana Fiery Hot Pepper Sauce",2015,6,631.50,757.80,-16.67
+"Louisiana Fiery Hot Pepper Sauce",2015,7,252.60,631.50,-60.00
+"Louisiana Fiery Hot Pepper Sauce",2015,8,442.05,252.60,75.00
+"Louisiana Fiery Hot Pepper Sauce",2015,9,778.85,442.05,76.19
+"Louisiana Fiery Hot Pepper Sauce",2015,10,1368.25,778.85,75.68
+"Louisiana Fiery Hot Pepper Sauce",2015,11,1052.50,1368.25,-23.08
+"Louisiana Fiery Hot Pepper Sauce",2015,12,1726.10,1052.50,64.00
+"Louisiana Fiery Hot Pepper Sauce",2016,1,315.75,0.00,NULL
+"Louisiana Fiery Hot Pepper Sauce",2016,2,1347.20,315.75,326.67
+"Louisiana Fiery Hot Pepper Sauce",2016,4,442.05,1347.20,-67.19
+"Louisiana Hot Spiced Okra",2014,9,408.00,0.00,NULL
+"Louisiana Hot Spiced Okra",2015,2,816.00,0.00,NULL
+"Louisiana Hot Spiced Okra",2015,3,816.00,816.00,0.00
+"Louisiana Hot Spiced Okra",2015,4,136.00,816.00,-83.33
+"Louisiana Hot Spiced Okra",2015,5,408.00,136.00,200.00
+"Louisiana Hot Spiced Okra",2015,9,68.00,408.00,-83.33
+"Louisiana Hot Spiced Okra",2015,12,850.00,68.00,1150.00
+"Louisiana Hot Spiced Okra",2016,5,17.00,0.00,NULL
+"Manjimup Dried Apples",2014,7,3180.00,0.00,NULL
+"Manjimup Dried Apples",2014,8,84.80,3180.00,-97.33
+"Manjimup Dried Apples",2014,10,2035.20,84.80,2300.00
+"Manjimup Dried Apples",2014,11,848.00,2035.20,-58.33
+"Manjimup Dried Apples",2014,12,763.20,848.00,-10.00
+"Manjimup Dried Apples",2015,3,1950.40,0.00,NULL
+"Manjimup Dried Apples",2015,5,2862.00,1950.40,46.74
+"Manjimup Dried Apples",2015,6,4929.00,2862.00,72.22
+"Manjimup Dried Apples",2015,8,795.00,4929.00,-83.87
+"Manjimup Dried Apples",2015,9,2120.00,795.00,166.67
+"Manjimup Dried Apples",2015,10,1855.00,2120.00,-12.50
+"Manjimup Dried Apples",2015,11,1590.00,1855.00,-14.29
+"Manjimup Dried Apples",2015,12,9964.00,1590.00,526.67
+"Manjimup Dried Apples",2016,1,689.00,0.00,NULL
+"Manjimup Dried Apples",2016,2,106.00,689.00,-84.62
+"Manjimup Dried Apples",2016,3,3922.00,106.00,3600.00
+"Manjimup Dried Apples",2016,4,7049.00,3922.00,79.73
+"Mascarpone Fabioli",2014,7,153.60,0.00,NULL
+"Mascarpone Fabioli",2014,9,1024.00,153.60,566.67
+"Mascarpone Fabioli",2014,10,153.60,1024.00,-85.00
+"Mascarpone Fabioli",2015,4,1600.00,0.00,NULL
+"Mascarpone Fabioli",2015,5,768.00,1600.00,-52.00
+"Mascarpone Fabioli",2015,6,320.00,768.00,-58.33
+"Mascarpone Fabioli",2015,10,128.00,320.00,-60.00
+"Mascarpone Fabioli",2015,11,320.00,128.00,150.00
+"Mascarpone Fabioli",2016,1,640.00,0.00,NULL
+"Mascarpone Fabioli",2016,2,192.00,640.00,-70.00
+"Mascarpone Fabioli",2016,3,1120.00,192.00,483.33
+"Mascarpone Fabioli",2016,4,2720.00,1120.00,142.86
+"Mascarpone Fabioli",2016,5,32.00,2720.00,-98.82
+Maxilaku,2014,7,640.00,0.00,NULL
+Maxilaku,2014,8,240.00,640.00,-62.50
+Maxilaku,2014,9,480.00,240.00,100.00
+Maxilaku,2014,11,560.00,480.00,16.67
+Maxilaku,2015,1,960.00,0.00,NULL
+Maxilaku,2015,2,336.00,960.00,-65.00
+Maxilaku,2015,3,384.00,336.00,14.29
+Maxilaku,2015,4,500.00,384.00,30.21
+Maxilaku,2015,5,120.00,500.00,-76.00
+Maxilaku,2015,7,860.00,120.00,616.67
+Maxilaku,2015,12,80.00,860.00,-90.70
+Maxilaku,2016,2,1740.00,0.00,NULL
+Maxilaku,2016,3,1360.00,1740.00,-21.84
+Maxilaku,2016,4,1240.00,1360.00,-8.82
+"Mishi Kobe Niku",2015,1,1552.00,0.00,NULL
+"Mishi Kobe Niku",2015,4,1552.00,1552.00,0.00
+"Mishi Kobe Niku",2015,9,4850.00,1552.00,212.50
+"Mishi Kobe Niku",2015,10,582.00,4850.00,-88.00
+"Mishi Kobe Niku",2016,1,291.00,0.00,NULL
+"Mozzarella di Giovanni",2014,7,841.20,0.00,NULL
+"Mozzarella di Giovanni",2014,8,945.20,841.20,12.36
+"Mozzarella di Giovanni",2014,9,556.00,945.20,-41.18
+"Mozzarella di Giovanni",2014,10,2502.00,556.00,350.00
+"Mozzarella di Giovanni",2014,12,2418.60,2502.00,-3.33
+"Mozzarella di Giovanni",2015,2,1390.00,0.00,NULL
+"Mozzarella di Giovanni",2015,4,695.00,1390.00,-50.00
+"Mozzarella di Giovanni",2015,5,1914.00,695.00,175.40
+"Mozzarella di Giovanni",2015,6,1879.20,1914.00,-1.82
+"Mozzarella di Giovanni",2015,7,417.60,1879.20,-77.78
+"Mozzarella di Giovanni",2015,8,2610.00,417.60,525.00
+"Mozzarella di Giovanni",2015,11,1461.60,2610.00,-44.00
+"Mozzarella di Giovanni",2015,12,1392.00,1461.60,-4.76
+"Mozzarella di Giovanni",2016,1,1914.00,0.00,NULL
+"Mozzarella di Giovanni",2016,3,3514.80,1914.00,83.64
+"Mozzarella di Giovanni",2016,4,1287.60,3514.80,-63.37
+"Nord-Ost Matjeshering",2014,7,1242.00,0.00,NULL
+"Nord-Ost Matjeshering",2014,8,124.20,1242.00,-90.00
+"Nord-Ost Matjeshering",2014,9,207.00,124.20,66.67
+"Nord-Ost Matjeshering",2014,10,1200.60,207.00,480.00
+"Nord-Ost Matjeshering",2014,12,372.60,1200.60,-68.97
+"Nord-Ost Matjeshering",2015,1,372.60,0.00,NULL
+"Nord-Ost Matjeshering",2015,2,579.60,372.60,55.56
+"Nord-Ost Matjeshering",2015,3,165.60,579.60,-71.43
+"Nord-Ost Matjeshering",2015,4,517.80,165.60,212.68
+"Nord-Ost Matjeshering",2015,5,906.15,517.80,75.00
+"Nord-Ost Matjeshering",2015,6,517.80,906.15,-42.86
+"Nord-Ost Matjeshering",2015,8,776.70,517.80,50.00
+"Nord-Ost Matjeshering",2015,9,51.78,776.70,-93.33
+"Nord-Ost Matjeshering",2015,10,77.67,51.78,50.00
+"Nord-Ost Matjeshering",2015,11,1553.40,77.67,1900.00
+"Nord-Ost Matjeshering",2015,12,1035.60,1553.40,-33.33
+"Nord-Ost Matjeshering",2016,1,517.80,0.00,NULL
+"Nord-Ost Matjeshering",2016,2,3262.14,517.80,530.00
+"Nord-Ost Matjeshering",2016,3,802.59,3262.14,-75.40
+"Nord-Ost Matjeshering",2016,4,388.35,802.59,-51.61
+"Nord-Ost Matjeshering",2016,5,103.56,388.35,-73.33
+"Northwoods Cranberry Sauce",2014,11,4480.00,0.00,NULL
+"Northwoods Cranberry Sauce",2015,4,1360.00,0.00,NULL
+"Northwoods Cranberry Sauce",2015,10,2000.00,1360.00,47.06
+"Northwoods Cranberry Sauce",2015,12,1200.00,2000.00,-40.00
+"Northwoods Cranberry Sauce",2016,1,800.00,0.00,NULL
+"Northwoods Cranberry Sauce",2016,2,1200.00,800.00,50.00
+"Northwoods Cranberry Sauce",2016,3,1440.00,1200.00,20.00
+"Northwoods Cranberry Sauce",2016,4,1200.00,1440.00,-16.67
+"Northwoods Cranberry Sauce",2016,5,80.00,1200.00,-93.33
+"NuNuCa Nuß-Nougat-Creme",2014,10,44.80,0.00,NULL
+"NuNuCa Nuß-Nougat-Creme",2014,11,672.00,44.80,1400.00
+"NuNuCa Nuß-Nougat-Creme",2014,12,78.40,672.00,-88.33
+"NuNuCa Nuß-Nougat-Creme",2015,3,134.40,0.00,NULL
+"NuNuCa Nuß-Nougat-Creme",2015,4,924.00,134.40,587.50
+"NuNuCa Nuß-Nougat-Creme",2015,12,868.00,924.00,-6.06
+"NuNuCa Nuß-Nougat-Creme",2016,1,714.00,0.00,NULL
+"NuNuCa Nuß-Nougat-Creme",2016,2,70.00,714.00,-90.20
+"NuNuCa Nuß-Nougat-Creme",2016,3,336.00,70.00,380.00
+"NuNuCa Nuß-Nougat-Creme",2016,4,210.00,336.00,-37.50
+"Original Frankfurter grüne Soße",2014,7,280.80,0.00,NULL
+"Original Frankfurter grüne Soße",2014,8,104.00,280.80,-62.96
+"Original Frankfurter grüne Soße",2014,11,124.80,104.00,20.00
+"Original Frankfurter grüne Soße",2014,12,145.60,124.80,16.67
+"Original Frankfurter grüne Soße",2015,1,468.00,0.00,NULL
+"Original Frankfurter grüne Soße",2015,2,572.00,468.00,22.22
+"Original Frankfurter grüne Soße",2015,3,384.80,572.00,-32.73
+"Original Frankfurter grüne Soße",2015,4,312.00,384.80,-18.92
+"Original Frankfurter grüne Soße",2015,5,130.00,312.00,-58.33
+"Original Frankfurter grüne Soße",2015,6,234.00,130.00,80.00
+"Original Frankfurter grüne Soße",2015,7,1105.00,234.00,372.22
+"Original Frankfurter grüne Soße",2015,8,455.00,1105.00,-58.82
+"Original Frankfurter grüne Soße",2015,9,910.00,455.00,100.00
+"Original Frankfurter grüne Soße",2015,10,390.00,910.00,-57.14
+"Original Frankfurter grüne Soße",2015,11,26.00,390.00,-93.33
+"Original Frankfurter grüne Soße",2015,12,195.00,26.00,650.00
+"Original Frankfurter grüne Soße",2016,1,676.00,0.00,NULL
+"Original Frankfurter grüne Soße",2016,2,845.00,676.00,25.00
+"Original Frankfurter grüne Soße",2016,3,910.00,845.00,7.69
+"Original Frankfurter grüne Soße",2016,4,1027.00,910.00,12.86
+"Original Frankfurter grüne Soße",2016,5,390.00,1027.00,-62.03
+"Outback Lager",2014,7,492.00,0.00,NULL
+"Outback Lager",2014,9,660.00,492.00,34.15
+"Outback Lager",2014,12,720.00,660.00,9.09
+"Outback Lager",2015,1,96.00,0.00,NULL
+"Outback Lager",2015,2,300.00,96.00,212.50
+"Outback Lager",2015,3,864.00,300.00,188.00
+"Outback Lager",2015,4,300.00,864.00,-65.28
+"Outback Lager",2015,5,105.00,300.00,-65.00
+"Outback Lager",2015,7,225.00,105.00,114.29
+"Outback Lager",2015,8,525.00,225.00,133.33
+"Outback Lager",2015,9,600.00,525.00,14.29
+"Outback Lager",2015,10,1740.00,600.00,190.00
+"Outback Lager",2015,11,600.00,1740.00,-65.52
+"Outback Lager",2015,12,525.00,600.00,-12.50
+"Outback Lager",2016,1,1440.00,0.00,NULL
+"Outback Lager",2016,2,1245.00,1440.00,-13.54
+"Outback Lager",2016,4,1035.00,1245.00,-16.87
+"Pâté chinois",2014,7,403.20,0.00,NULL
+"Pâté chinois",2014,8,384.00,403.20,-4.76
+"Pâté chinois",2014,10,768.00,384.00,100.00
+"Pâté chinois",2014,11,230.40,768.00,-70.00
+"Pâté chinois",2014,12,2592.00,230.40,1025.00
+"Pâté chinois",2015,1,192.00,0.00,NULL
+"Pâté chinois",2015,2,3456.00,192.00,1700.00
+"Pâté chinois",2015,3,614.40,3456.00,-82.22
+"Pâté chinois",2015,5,336.00,614.40,-45.31
+"Pâté chinois",2015,6,1032.00,336.00,207.14
+"Pâté chinois",2015,7,600.00,1032.00,-41.86
+"Pâté chinois",2015,8,288.00,600.00,-52.00
+"Pâté chinois",2015,9,96.00,288.00,-66.67
+"Pâté chinois",2015,10,648.00,96.00,575.00
+"Pâté chinois",2015,11,288.00,648.00,-55.56
+"Pâté chinois",2015,12,1440.00,288.00,400.00
+"Pâté chinois",2016,2,960.00,0.00,NULL
+"Pâté chinois",2016,3,696.00,960.00,-27.50
+"Pâté chinois",2016,4,4344.00,696.00,524.14
+"Pâté chinois",2016,5,144.00,4344.00,-96.69
+Pavlova,2014,7,1320.50,0.00,NULL
+Pavlova,2014,8,556.00,1320.50,-57.89
+Pavlova,2014,9,556.00,556.00,0.00
+Pavlova,2014,10,291.90,556.00,-47.50
+Pavlova,2014,11,778.40,291.90,166.67
+Pavlova,2015,1,291.90,0.00,NULL
+Pavlova,2015,2,1181.50,291.90,304.76
+Pavlova,2015,3,736.70,1181.50,-37.65
+Pavlova,2015,4,872.50,736.70,18.43
+Pavlova,2015,5,1465.80,872.50,68.00
+Pavlova,2015,6,209.40,1465.80,-85.71
+Pavlova,2015,7,523.50,209.40,150.00
+Pavlova,2015,9,1622.85,523.50,210.00
+Pavlova,2015,10,698.00,1622.85,-56.99
+Pavlova,2015,11,314.10,698.00,-55.00
+Pavlova,2015,12,1483.25,314.10,372.22
+Pavlova,2016,1,872.50,0.00,NULL
+Pavlova,2016,2,1099.35,872.50,26.00
+Pavlova,2016,3,3018.85,1099.35,174.60
+Pavlova,2016,5,855.05,3018.85,-71.68
+"Perth Pasties",2014,7,393.00,0.00,NULL
+"Perth Pasties",2014,8,943.20,393.00,140.00
+"Perth Pasties",2014,9,786.00,943.20,-16.67
+"Perth Pasties",2014,12,3406.00,786.00,333.33
+"Perth Pasties",2015,1,655.00,0.00,NULL
+"Perth Pasties",2015,2,1703.00,655.00,160.00
+"Perth Pasties",2015,3,733.60,1703.00,-56.92
+"Perth Pasties",2015,4,688.80,733.60,-6.11
+"Perth Pasties",2015,6,1410.40,688.80,104.76
+"Perth Pasties",2015,8,1213.60,1410.40,-13.95
+"Perth Pasties",2015,9,328.00,1213.60,-72.97
+"Perth Pasties",2015,10,4034.40,328.00,1130.00
+"Perth Pasties",2016,1,951.20,0.00,NULL
+"Perth Pasties",2016,2,98.40,951.20,-89.66
+"Perth Pasties",2016,3,721.60,98.40,633.33
+"Perth Pasties",2016,4,2624.00,721.60,263.64
+"Perth Pasties",2016,5,820.00,2624.00,-68.75
+"Queso Cabrales",2014,7,168.00,0.00,NULL
+"Queso Cabrales",2014,9,201.60,168.00,20.00
+"Queso Cabrales",2014,10,840.00,201.60,316.67
+"Queso Cabrales",2014,11,604.80,840.00,-28.00
+"Queso Cabrales",2015,1,504.00,0.00,NULL
+"Queso Cabrales",2015,2,705.60,504.00,40.00
+"Queso Cabrales",2015,3,504.00,705.60,-28.57
+"Queso Cabrales",2015,5,1953.00,504.00,287.50
+"Queso Cabrales",2015,6,1050.00,1953.00,-46.24
+"Queso Cabrales",2015,7,294.00,1050.00,-72.00
+"Queso Cabrales",2015,8,210.00,294.00,-28.57
+"Queso Cabrales",2015,10,315.00,210.00,50.00
+"Queso Cabrales",2015,11,105.00,315.00,-66.67
+"Queso Cabrales",2015,12,1785.00,105.00,1600.00
+"Queso Cabrales",2016,1,1260.00,0.00,NULL
+"Queso Cabrales",2016,2,1890.00,1260.00,50.00
+"Queso Cabrales",2016,3,1092.00,1890.00,-42.22
+"Queso Cabrales",2016,4,210.00,1092.00,-80.77
+"Queso Cabrales",2016,5,210.00,210.00,0.00
+"Queso Manchego La Pastora",2014,7,364.80,0.00,NULL
+"Queso Manchego La Pastora",2015,2,456.00,0.00,NULL
+"Queso Manchego La Pastora",2015,5,1710.00,456.00,275.00
+"Queso Manchego La Pastora",2015,8,1368.00,1710.00,-20.00
+"Queso Manchego La Pastora",2015,9,3800.00,1368.00,177.78
+"Queso Manchego La Pastora",2015,10,1520.00,3800.00,-60.00
+"Queso Manchego La Pastora",2016,3,1900.00,0.00,NULL
+"Queso Manchego La Pastora",2016,4,1672.00,1900.00,-12.00
+"Queso Manchego La Pastora",2016,5,76.00,1672.00,-95.45
+"Raclette Courdavault",2014,7,4400.00,0.00,NULL
+"Raclette Courdavault",2014,8,924.00,4400.00,-79.00
+"Raclette Courdavault",2014,9,1760.00,924.00,90.48
+"Raclette Courdavault",2014,10,2552.00,1760.00,45.00
+"Raclette Courdavault",2014,12,528.00,2552.00,-79.31
+"Raclette Courdavault",2015,1,5060.00,0.00,NULL
+"Raclette Courdavault",2015,2,1584.00,5060.00,-68.70
+"Raclette Courdavault",2015,3,7128.00,1584.00,350.00
+"Raclette Courdavault",2015,4,220.00,7128.00,-96.91
+"Raclette Courdavault",2015,5,935.00,220.00,325.00
+"Raclette Courdavault",2015,6,2860.00,935.00,205.88
+"Raclette Courdavault",2015,7,4675.00,2860.00,63.46
+"Raclette Courdavault",2015,9,715.00,4675.00,-84.71
+"Raclette Courdavault",2015,10,6050.00,715.00,746.15
+"Raclette Courdavault",2015,11,5115.00,6050.00,-15.45
+"Raclette Courdavault",2015,12,3575.00,5115.00,-30.11
+"Raclette Courdavault",2016,1,8085.00,0.00,NULL
+"Raclette Courdavault",2016,2,2200.00,8085.00,-72.79
+"Raclette Courdavault",2016,3,220.00,2200.00,-90.00
+"Raclette Courdavault",2016,4,17710.00,220.00,7950.00
+"Ravioli Angelo",2014,7,1014.00,0.00,NULL
+"Ravioli Angelo",2014,8,31.20,1014.00,-96.92
+"Ravioli Angelo",2014,10,249.60,31.20,700.00
+"Ravioli Angelo",2014,11,780.00,249.60,212.50
+"Ravioli Angelo",2015,1,312.00,0.00,NULL
+"Ravioli Angelo",2015,2,234.00,312.00,-25.00
+"Ravioli Angelo",2015,5,97.50,234.00,-58.33
+"Ravioli Angelo",2015,6,195.00,97.50,100.00
+"Ravioli Angelo",2015,7,390.00,195.00,100.00
+"Ravioli Angelo",2015,10,780.00,390.00,100.00
+"Ravioli Angelo",2015,11,273.00,780.00,-65.00
+"Ravioli Angelo",2016,1,1248.00,0.00,NULL
+"Ravioli Angelo",2016,2,390.00,1248.00,-68.75
+"Ravioli Angelo",2016,3,877.50,390.00,125.00
+"Ravioli Angelo",2016,4,936.00,877.50,6.67
+"Rhönbräu Klosterbier",2014,8,260.40,0.00,NULL
+"Rhönbräu Klosterbier",2014,9,62.00,260.40,-76.19
+"Rhönbräu Klosterbier",2014,10,310.00,62.00,400.00
+"Rhönbräu Klosterbier",2014,11,111.60,310.00,-64.00
+"Rhönbräu Klosterbier",2015,2,173.60,0.00,NULL
+"Rhönbräu Klosterbier",2015,3,285.20,173.60,64.29
+"Rhönbräu Klosterbier",2015,4,666.50,285.20,133.70
+"Rhönbräu Klosterbier",2015,5,232.50,666.50,-65.12
+"Rhönbräu Klosterbier",2015,6,976.50,232.50,320.00
+"Rhönbräu Klosterbier",2015,7,542.50,976.50,-44.44
+"Rhönbräu Klosterbier",2015,8,77.50,542.50,-85.71
+"Rhönbräu Klosterbier",2015,9,426.25,77.50,450.00
+"Rhönbräu Klosterbier",2015,10,325.50,426.25,-23.64
+"Rhönbräu Klosterbier",2015,11,155.00,325.50,-52.38
+"Rhönbräu Klosterbier",2015,12,906.75,155.00,485.00
+"Rhönbräu Klosterbier",2016,1,155.00,0.00,NULL
+"Rhönbräu Klosterbier",2016,2,1038.50,155.00,570.00
+"Rhönbräu Klosterbier",2016,3,1681.75,1038.50,61.94
+"Rhönbräu Klosterbier",2016,4,232.50,1681.75,-86.18
+"Rhönbräu Klosterbier",2016,5,31.00,232.50,-86.67
+"Röd Kaviar",2014,8,300.00,0.00,NULL
+"Röd Kaviar",2015,1,240.00,0.00,NULL
+"Röd Kaviar",2015,3,240.00,240.00,0.00
+"Röd Kaviar",2015,5,495.00,240.00,106.25
+"Röd Kaviar",2015,6,45.00,495.00,-90.91
+"Röd Kaviar",2015,7,450.00,45.00,900.00
+"Röd Kaviar",2015,8,525.00,450.00,16.67
+"Röd Kaviar",2015,9,750.00,525.00,42.86
+"Röd Kaviar",2015,10,750.00,750.00,0.00
+"Röd Kaviar",2015,11,225.00,750.00,-70.00
+"Röd Kaviar",2016,2,150.00,0.00,NULL
+"Röd Kaviar",2016,5,30.00,150.00,-80.00
+"Rogede sild",2014,12,114.00,0.00,NULL
+"Rogede sild",2015,3,228.00,0.00,NULL
+"Rogede sild",2015,4,199.50,228.00,-12.50
+"Rogede sild",2015,5,950.00,199.50,376.19
+"Rogede sild",2015,8,190.00,950.00,-80.00
+"Rogede sild",2015,10,1045.00,190.00,450.00
+"Rogede sild",2015,11,798.00,1045.00,-23.64
+"Rogede sild",2015,12,256.50,798.00,-67.86
+"Rogede sild",2016,1,342.00,0.00,NULL
+"Rogede sild",2016,2,142.50,342.00,-58.33
+"Rogede sild",2016,3,285.00,142.50,100.00
+"Rogede sild",2016,4,190.00,285.00,-33.33
+"Rössle Sauerkraut",2014,8,728.00,0.00,NULL
+"Rössle Sauerkraut",2014,9,1164.80,728.00,60.00
+"Rössle Sauerkraut",2014,10,509.60,1164.80,-56.25
+"Rössle Sauerkraut",2014,11,1565.20,509.60,207.14
+"Rössle Sauerkraut",2014,12,946.40,1565.20,-39.53
+"Rössle Sauerkraut",2015,1,1528.80,0.00,NULL
+"Rössle Sauerkraut",2015,2,2074.80,1528.80,35.71
+"Rössle Sauerkraut",2015,3,655.20,2074.80,-68.42
+"Rössle Sauerkraut",2015,4,3009.60,655.20,359.34
+"Rössle Sauerkraut",2015,5,319.20,3009.60,-89.39
+"Rössle Sauerkraut",2015,8,2052.00,319.20,542.86
+"Rössle Sauerkraut",2015,10,2736.00,2052.00,33.33
+"Rössle Sauerkraut",2015,11,1140.00,2736.00,-58.33
+"Rössle Sauerkraut",2015,12,1094.40,1140.00,-4.00
+"Rössle Sauerkraut",2016,2,136.80,0.00,NULL
+"Rössle Sauerkraut",2016,3,2736.00,136.80,1900.00
+"Rössle Sauerkraut",2016,4,4104.00,2736.00,50.00
+"Rössle Sauerkraut",2016,5,364.80,4104.00,-91.11
+"Sasquatch Ale",2014,8,224.00,0.00,NULL
+"Sasquatch Ale",2014,9,156.80,224.00,-30.00
+"Sasquatch Ale",2014,11,515.20,156.80,228.57
+"Sasquatch Ale",2014,12,112.00,515.20,-78.26
+"Sasquatch Ale",2015,2,224.00,0.00,NULL
+"Sasquatch Ale",2015,3,392.00,224.00,75.00
+"Sasquatch Ale",2015,5,140.00,392.00,-64.29
+"Sasquatch Ale",2015,6,560.00,140.00,300.00
+"Sasquatch Ale",2015,10,364.00,560.00,-35.00
+"Sasquatch Ale",2015,11,420.00,364.00,15.38
+"Sasquatch Ale",2015,12,140.00,420.00,-66.67
+"Sasquatch Ale",2016,2,140.00,0.00,NULL
+"Sasquatch Ale",2016,3,280.00,140.00,100.00
+"Sasquatch Ale",2016,4,2520.00,280.00,800.00
+"Sasquatch Ale",2016,5,490.00,2520.00,-80.56
+"Schoggi Schokolade",2014,7,877.50,0.00,NULL
+"Schoggi Schokolade",2014,8,526.50,877.50,-40.00
+"Schoggi Schokolade",2015,2,1755.00,0.00,NULL
+"Schoggi Schokolade",2015,4,5268.00,1755.00,200.17
+"Schoggi Schokolade",2015,7,2195.00,5268.00,-58.33
+"Schoggi Schokolade",2015,12,1756.00,2195.00,-20.00
+"Schoggi Schokolade",2016,1,439.00,0.00,NULL
+"Schoggi Schokolade",2016,3,2414.50,439.00,450.00
+"Scottish Longbreads",2014,8,30.00,0.00,NULL
+"Scottish Longbreads",2014,9,380.00,30.00,1166.67
+"Scottish Longbreads",2014,10,240.00,380.00,-36.84
+"Scottish Longbreads",2014,12,680.00,240.00,183.33
+"Scottish Longbreads",2015,1,660.00,0.00,NULL
+"Scottish Longbreads",2015,2,210.00,660.00,-68.18
+"Scottish Longbreads",2015,3,300.00,210.00,42.86
+"Scottish Longbreads",2015,4,75.00,300.00,-75.00
+"Scottish Longbreads",2015,5,687.50,75.00,816.67
+"Scottish Longbreads",2015,8,412.50,687.50,-40.00
+"Scottish Longbreads",2015,9,125.00,412.50,-69.70
+"Scottish Longbreads",2015,10,1062.50,125.00,750.00
+"Scottish Longbreads",2015,11,75.00,1062.50,-92.94
+"Scottish Longbreads",2015,12,912.50,75.00,1116.67
+"Scottish Longbreads",2016,1,550.00,0.00,NULL
+"Scottish Longbreads",2016,2,725.00,550.00,31.82
+"Scottish Longbreads",2016,3,1000.00,725.00,37.93
+"Scottish Longbreads",2016,4,550.00,1000.00,-45.00
+"Scottish Longbreads",2016,5,687.50,550.00,25.00
+"Singaporean Hokkien Fried Mee",2014,7,98.00,0.00,NULL
+"Singaporean Hokkien Fried Mee",2014,9,89.60,98.00,-8.57
+"Singaporean Hokkien Fried Mee",2014,10,112.00,89.60,25.00
+"Singaporean Hokkien Fried Mee",2014,11,100.80,112.00,-10.00
+"Singaporean Hokkien Fried Mee",2015,1,448.00,0.00,NULL
+"Singaporean Hokkien Fried Mee",2015,3,560.00,448.00,25.00
+"Singaporean Hokkien Fried Mee",2015,4,924.00,560.00,65.00
+"Singaporean Hokkien Fried Mee",2015,6,392.00,924.00,-57.58
+"Singaporean Hokkien Fried Mee",2015,7,1400.00,392.00,257.14
+"Singaporean Hokkien Fried Mee",2015,8,70.00,1400.00,-95.00
+"Singaporean Hokkien Fried Mee",2015,9,1344.00,70.00,1820.00
+"Singaporean Hokkien Fried Mee",2015,11,392.00,1344.00,-70.83
+"Singaporean Hokkien Fried Mee",2015,12,476.00,392.00,21.43
+"Singaporean Hokkien Fried Mee",2016,1,868.00,0.00,NULL
+"Singaporean Hokkien Fried Mee",2016,2,350.00,868.00,-59.68
+"Singaporean Hokkien Fried Mee",2016,3,140.00,350.00,-60.00
+"Singaporean Hokkien Fried Mee",2016,4,1568.00,140.00,1020.00
+"Sir Rodney's Marmalade",2014,7,2592.00,0.00,NULL
+"Sir Rodney's Marmalade",2014,8,1684.80,2592.00,-35.00
+"Sir Rodney's Marmalade",2014,12,2592.00,1684.80,53.85
+"Sir Rodney's Marmalade",2015,4,3159.00,0.00,NULL
+"Sir Rodney's Marmalade",2015,5,1215.00,3159.00,-61.54
+"Sir Rodney's Marmalade",2015,7,1701.00,1215.00,40.00
+"Sir Rodney's Marmalade",2015,9,1701.00,1701.00,0.00
+"Sir Rodney's Marmalade",2016,1,405.00,0.00,NULL
+"Sir Rodney's Marmalade",2016,2,1620.00,405.00,300.00
+"Sir Rodney's Marmalade",2016,3,5670.00,1620.00,250.00
+"Sir Rodney's Marmalade",2016,4,1215.00,5670.00,-78.57
+"Sir Rodney's Marmalade",2016,5,81.00,1215.00,-93.33
+"Sir Rodney's Scones",2014,7,240.00,0.00,NULL
+"Sir Rodney's Scones",2014,10,80.00,240.00,-66.67
+"Sir Rodney's Scones",2014,11,40.00,80.00,-50.00
+"Sir Rodney's Scones",2014,12,80.00,40.00,100.00
+"Sir Rodney's Scones",2015,1,736.00,0.00,NULL
+"Sir Rodney's Scones",2015,2,640.00,736.00,-13.04
+"Sir Rodney's Scones",2015,3,280.00,640.00,-56.25
+"Sir Rodney's Scones",2015,4,520.00,280.00,85.71
+"Sir Rodney's Scones",2015,5,210.00,520.00,-59.62
+"Sir Rodney's Scones",2015,7,140.00,210.00,-33.33
+"Sir Rodney's Scones",2015,8,970.00,140.00,592.86
+"Sir Rodney's Scones",2015,9,720.00,970.00,-25.77
+"Sir Rodney's Scones",2015,10,370.00,720.00,-48.61
+"Sir Rodney's Scones",2015,11,700.00,370.00,89.19
+"Sir Rodney's Scones",2015,12,400.00,700.00,-42.86
+"Sir Rodney's Scones",2016,1,400.00,0.00,NULL
+"Sir Rodney's Scones",2016,2,600.00,400.00,50.00
+"Sir Rodney's Scones",2016,3,1480.00,600.00,146.67
+"Sir Rodney's Scones",2016,4,1030.00,1480.00,-30.41
+"Sirop d'érable",2015,1,364.80,0.00,NULL
+"Sirop d'érable",2015,2,2622.00,364.80,618.75
+"Sirop d'érable",2015,4,1140.00,2622.00,-56.52
+"Sirop d'érable",2015,5,855.00,1140.00,-25.00
+"Sirop d'érable",2015,7,3420.00,855.00,300.00
+"Sirop d'érable",2015,8,570.00,3420.00,-83.33
+"Sirop d'érable",2015,10,427.50,570.00,-25.00
+"Sirop d'érable",2015,11,570.00,427.50,33.33
+"Sirop d'érable",2015,12,570.00,570.00,0.00
+"Sirop d'érable",2016,1,855.00,0.00,NULL
+"Sirop d'érable",2016,2,1425.00,855.00,66.67
+"Sirop d'érable",2016,3,855.00,1425.00,-40.00
+"Sirop d'érable",2016,4,2764.50,855.00,223.33
+Spegesild,2014,8,144.00,0.00,NULL
+Spegesild,2014,10,288.00,144.00,100.00
+Spegesild,2014,12,700.80,288.00,143.33
+Spegesild,2015,1,211.20,0.00,NULL
+Spegesild,2015,2,336.00,211.20,59.09
+Spegesild,2015,3,48.00,336.00,-85.71
+Spegesild,2015,4,108.00,48.00,125.00
+Spegesild,2015,8,276.00,108.00,155.56
+Spegesild,2015,9,1260.00,276.00,356.52
+Spegesild,2015,10,504.00,1260.00,-60.00
+Spegesild,2015,11,336.00,504.00,-33.33
+Spegesild,2016,1,420.00,0.00,NULL
+Spegesild,2016,2,252.00,420.00,-40.00
+Spegesild,2016,3,288.00,252.00,14.29
+Spegesild,2016,4,576.00,288.00,100.00
+Spegesild,2016,5,396.00,576.00,-31.25
+"Steeleye Stout",2014,7,288.00,0.00,NULL
+"Steeleye Stout",2014,8,1497.60,288.00,420.00
+"Steeleye Stout",2014,10,1152.00,1497.60,-23.08
+"Steeleye Stout",2014,12,1008.00,1152.00,-12.50
+"Steeleye Stout",2015,1,1368.00,0.00,NULL
+"Steeleye Stout",2015,2,115.20,1368.00,-91.58
+"Steeleye Stout",2015,4,54.00,115.20,-53.13
+"Steeleye Stout",2015,5,1008.00,54.00,1766.67
+"Steeleye Stout",2015,6,360.00,1008.00,-64.29
+"Steeleye Stout",2015,7,972.00,360.00,170.00
+"Steeleye Stout",2015,8,540.00,972.00,-44.44
+"Steeleye Stout",2015,10,540.00,540.00,0.00
+"Steeleye Stout",2015,11,630.00,540.00,16.67
+"Steeleye Stout",2015,12,270.00,630.00,-57.14
+"Steeleye Stout",2016,1,1062.00,0.00,NULL
+"Steeleye Stout",2016,2,666.00,1062.00,-37.29
+"Steeleye Stout",2016,3,900.00,666.00,35.14
+"Steeleye Stout",2016,4,2106.00,900.00,134.00
+"Tarte au sucre",2014,7,591.00,0.00,NULL
+"Tarte au sucre",2014,8,2048.80,591.00,246.67
+"Tarte au sucre",2014,9,4925.00,2048.80,140.38
+"Tarte au sucre",2014,10,1103.20,4925.00,-77.60
+"Tarte au sucre",2014,12,1182.00,1103.20,7.14
+"Tarte au sucre",2015,1,2955.00,0.00,NULL
+"Tarte au sucre",2015,2,1379.00,2955.00,-53.33
+"Tarte au sucre",2015,4,147.90,1379.00,-89.27
+"Tarte au sucre",2015,5,2958.00,147.90,1900.00
+"Tarte au sucre",2015,6,1725.50,2958.00,-41.67
+"Tarte au sucre",2015,7,986.00,1725.50,-42.86
+"Tarte au sucre",2015,8,4683.50,986.00,375.00
+"Tarte au sucre",2015,9,493.00,4683.50,-89.47
+"Tarte au sucre",2015,10,3352.40,493.00,580.00
+"Tarte au sucre",2015,11,1922.70,3352.40,-42.65
+"Tarte au sucre",2015,12,2070.60,1922.70,7.69
+"Tarte au sucre",2016,1,4979.30,0.00,NULL
+"Tarte au sucre",2016,2,3007.30,4979.30,-39.60
+"Tarte au sucre",2016,3,7690.80,3007.30,155.74
+"Tarte au sucre",2016,4,1626.90,7690.80,-78.85
+"Teatime Chocolate Biscuits",2014,8,138.70,0.00,NULL
+"Teatime Chocolate Biscuits",2014,9,109.50,138.70,-21.05
+"Teatime Chocolate Biscuits",2014,10,73.00,109.50,-33.33
+"Teatime Chocolate Biscuits",2014,11,584.00,73.00,700.00
+"Teatime Chocolate Biscuits",2015,1,306.60,0.00,NULL
+"Teatime Chocolate Biscuits",2015,2,489.10,306.60,59.52
+"Teatime Chocolate Biscuits",2015,3,189.80,489.10,-61.19
+"Teatime Chocolate Biscuits",2015,5,92.00,189.80,-51.53
+"Teatime Chocolate Biscuits",2015,6,322.00,92.00,250.00
+"Teatime Chocolate Biscuits",2015,8,460.00,322.00,42.86
+"Teatime Chocolate Biscuits",2015,9,450.80,460.00,-2.00
+"Teatime Chocolate Biscuits",2015,10,220.80,450.80,-51.02
+"Teatime Chocolate Biscuits",2015,12,680.80,220.80,208.33
+"Teatime Chocolate Biscuits",2016,1,266.80,0.00,NULL
+"Teatime Chocolate Biscuits",2016,2,340.40,266.80,27.59
+"Teatime Chocolate Biscuits",2016,3,174.80,340.40,-48.65
+"Teatime Chocolate Biscuits",2016,4,782.00,174.80,347.37
+"Teatime Chocolate Biscuits",2016,5,478.40,782.00,-38.82
+"Thüringer Rostbratwurst",2014,7,990.00,0.00,NULL
+"Thüringer Rostbratwurst",2014,8,1485.00,990.00,50.00
+"Thüringer Rostbratwurst",2014,9,2475.00,1485.00,66.67
+"Thüringer Rostbratwurst",2014,11,3861.00,2475.00,56.00
+"Thüringer Rostbratwurst",2014,12,3366.00,3861.00,-12.82
+"Thüringer Rostbratwurst",2015,1,2079.00,0.00,NULL
+"Thüringer Rostbratwurst",2015,2,2376.00,2079.00,14.29
+"Thüringer Rostbratwurst",2015,3,1782.00,2376.00,-25.00
+"Thüringer Rostbratwurst",2015,4,4456.44,1782.00,150.08
+"Thüringer Rostbratwurst",2015,6,1237.90,4456.44,-72.22
+"Thüringer Rostbratwurst",2015,8,3218.54,1237.90,160.00
+"Thüringer Rostbratwurst",2015,9,5694.34,3218.54,76.92
+"Thüringer Rostbratwurst",2015,10,6437.08,5694.34,13.04
+"Thüringer Rostbratwurst",2015,12,8912.88,6437.08,38.46
+"Thüringer Rostbratwurst",2016,1,2228.22,0.00,NULL
+"Thüringer Rostbratwurst",2016,2,20301.56,2228.22,811.11
+"Thüringer Rostbratwurst",2016,3,1733.06,20301.56,-91.46
+"Thüringer Rostbratwurst",2016,4,15102.38,1733.06,771.43
+Tofu,2014,7,167.40,0.00,NULL
+Tofu,2014,10,353.40,167.40,111.11
+Tofu,2014,12,1060.20,353.40,200.00
+Tofu,2015,1,1246.20,0.00,NULL
+Tofu,2015,3,223.20,1246.20,-82.09
+Tofu,2015,4,1627.50,223.20,629.17
+Tofu,2015,6,1302.00,1627.50,-20.00
+Tofu,2015,8,558.00,1302.00,-57.14
+Tofu,2015,9,767.25,558.00,37.50
+Tofu,2015,11,488.25,767.25,-36.36
+Tofu,2015,12,348.75,488.25,-28.57
+Tofu,2016,5,488.25,0.00,NULL
+Tourtière,2014,8,59.00,0.00,NULL
+Tourtière,2014,9,29.50,59.00,-50.00
+Tourtière,2014,10,88.50,29.50,200.00
+Tourtière,2014,11,672.60,88.50,660.00
+Tourtière,2014,12,59.00,672.60,-91.23
+Tourtière,2015,1,271.40,0.00,NULL
+Tourtière,2015,2,595.90,271.40,119.57
+Tourtière,2015,3,141.60,595.90,-76.24
+Tourtière,2015,4,149.00,141.60,5.23
+Tourtière,2015,5,365.05,149.00,145.00
+Tourtière,2015,7,402.30,365.05,10.20
+Tourtière,2015,8,223.50,402.30,-44.44
+Tourtière,2015,9,268.20,223.50,20.00
+Tourtière,2015,10,856.75,268.20,219.44
+Tourtière,2015,12,141.55,856.75,-83.48
+Tourtière,2016,1,260.75,0.00,NULL
+Tourtière,2016,2,312.90,260.75,20.00
+Tourtière,2016,4,74.50,312.90,-76.19
+Tourtière,2016,5,149.00,74.50,100.00
+Tunnbröd,2014,10,288.00,0.00,NULL
+Tunnbröd,2014,11,180.00,288.00,-37.50
+Tunnbröd,2014,12,288.00,180.00,60.00
+Tunnbröd,2015,1,432.00,0.00,NULL
+Tunnbröd,2015,3,259.20,432.00,-40.00
+Tunnbröd,2015,4,72.00,259.20,-72.22
+Tunnbröd,2015,5,810.00,72.00,1025.00
+Tunnbröd,2015,8,90.00,810.00,-88.89
+Tunnbröd,2015,9,333.00,90.00,270.00
+Tunnbröd,2015,11,396.00,333.00,18.92
+Tunnbröd,2016,1,792.00,0.00,NULL
+Tunnbröd,2016,2,720.00,792.00,-9.09
+Tunnbröd,2016,3,72.00,720.00,-90.00
+Tunnbröd,2016,4,90.00,72.00,25.00
+Tunnbröd,2016,5,18.00,90.00,-80.00
+"Uncle Bob's Organic Dried Pears",2014,7,360.00,0.00,NULL
+"Uncle Bob's Organic Dried Pears",2014,12,240.00,360.00,-33.33
+"Uncle Bob's Organic Dried Pears",2015,2,384.00,0.00,NULL
+"Uncle Bob's Organic Dried Pears",2015,3,720.00,384.00,87.50
+"Uncle Bob's Organic Dried Pears",2015,4,1500.00,720.00,108.33
+"Uncle Bob's Organic Dried Pears",2015,5,300.00,1500.00,-80.00
+"Uncle Bob's Organic Dried Pears",2015,7,1650.00,300.00,450.00
+"Uncle Bob's Organic Dried Pears",2015,8,1050.00,1650.00,-36.36
+"Uncle Bob's Organic Dried Pears",2015,10,2700.00,1050.00,157.14
+"Uncle Bob's Organic Dried Pears",2015,12,1140.00,2700.00,-57.78
+"Uncle Bob's Organic Dried Pears",2016,1,750.00,0.00,NULL
+"Uncle Bob's Organic Dried Pears",2016,2,960.00,750.00,28.00
+"Uncle Bob's Organic Dried Pears",2016,3,6510.00,960.00,578.13
+"Uncle Bob's Organic Dried Pears",2016,4,3720.00,6510.00,-42.86
+"Uncle Bob's Organic Dried Pears",2016,5,480.00,3720.00,-87.10
+"Valkoinen suklaa",2014,11,195.00,0.00,NULL
+"Valkoinen suklaa",2014,12,195.00,195.00,0.00
+"Valkoinen suklaa",2015,1,520.00,0.00,NULL
+"Valkoinen suklaa",2015,3,325.00,520.00,-37.50
+"Valkoinen suklaa",2015,8,406.25,325.00,25.00
+"Valkoinen suklaa",2015,11,975.00,406.25,140.00
+"Valkoinen suklaa",2016,3,536.25,0.00,NULL
+"Valkoinen suklaa",2016,5,357.50,536.25,-33.33
+Vegie-spread,2014,8,456.30,0.00,NULL
+Vegie-spread,2014,10,2808.00,456.30,515.38
+Vegie-spread,2014,12,561.60,2808.00,-80.00
+Vegie-spread,2015,1,3510.00,0.00,NULL
+Vegie-spread,2015,6,263.40,3510.00,-92.50
+Vegie-spread,2015,7,1053.60,263.40,300.00
+Vegie-spread,2015,10,878.00,1053.60,-16.67
+Vegie-spread,2015,11,395.10,878.00,-55.00
+Vegie-spread,2015,12,1317.00,395.10,233.33
+Vegie-spread,2016,3,4609.50,0.00,NULL
+Vegie-spread,2016,4,1843.80,4609.50,-60.00
+"Wimmers gute Semmelknödel",2014,8,239.40,0.00,NULL
+"Wimmers gute Semmelknödel",2014,10,1330.00,239.40,455.56
+"Wimmers gute Semmelknödel",2014,11,931.00,1330.00,-30.00
+"Wimmers gute Semmelknödel",2014,12,798.00,931.00,-14.29
+"Wimmers gute Semmelknödel",2015,1,186.20,0.00,NULL
+"Wimmers gute Semmelknödel",2015,2,1888.60,186.20,914.29
+"Wimmers gute Semmelknödel",2015,3,1010.80,1888.60,-46.48
+"Wimmers gute Semmelknödel",2015,6,1795.50,1010.80,77.63
+"Wimmers gute Semmelknödel",2015,8,299.25,1795.50,-83.33
+"Wimmers gute Semmelknödel",2015,9,1429.75,299.25,377.78
+"Wimmers gute Semmelknödel",2015,11,798.00,1429.75,-44.19
+"Wimmers gute Semmelknödel",2015,12,1163.75,798.00,45.83
+"Wimmers gute Semmelknödel",2016,1,3690.75,0.00,NULL
+"Wimmers gute Semmelknödel",2016,2,1163.75,3690.75,-68.47
+"Wimmers gute Semmelknödel",2016,3,399.00,1163.75,-65.71
+"Wimmers gute Semmelknödel",2016,4,1496.25,399.00,275.00
+"Wimmers gute Semmelknödel",2016,5,4389.00,1496.25,193.33
+"Zaanse koeken",2014,10,121.60,0.00,NULL
+"Zaanse koeken",2015,1,646.00,0.00,NULL
+"Zaanse koeken",2015,3,228.00,646.00,-64.71
+"Zaanse koeken",2015,4,57.00,228.00,-75.00
+"Zaanse koeken",2015,6,237.50,57.00,316.67
+"Zaanse koeken",2015,7,142.50,237.50,-40.00
+"Zaanse koeken",2015,9,674.50,142.50,373.33
+"Zaanse koeken",2015,10,636.50,674.50,-5.63
+"Zaanse koeken",2015,11,285.00,636.50,-55.22
+"Zaanse koeken",2015,12,285.00,285.00,0.00
+"Zaanse koeken",2016,1,380.00,0.00,NULL
+"Zaanse koeken",2016,2,199.50,380.00,-47.50
+"Zaanse koeken",2016,3,465.50,199.50,133.33
