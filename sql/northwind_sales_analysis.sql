@@ -26,10 +26,7 @@ ranked_sales AS (
         *,
         LAG(total_quantity, 1, 0) OVER (
             PARTITION BY ProductID, sale_year ORDER BY sale_month
-        ) AS prev_month_quantity,
-        RANK() OVER (
-            PARTITION BY ProductID, sale_year ORDER BY sale_month
-        ) AS month_rank
+        ) AS prev_month_quantity
     FROM
         monthly_sales
 )
